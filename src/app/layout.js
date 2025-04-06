@@ -12,7 +12,7 @@ const font =  ({
 
 
 export const metadata = {
-    title: "فريق sytnrix ",
+    title: "فريق BitX ",
   description: " فريق متخصص في تقديم حلول إبداعية وخدمات احترافية لتحقيق رؤيتكم وتطلعاتكم بأعلى معايير الجودة والدقة   ",
 };
 
