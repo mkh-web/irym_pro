@@ -4,7 +4,7 @@ export default function Projects() {
 
 
      return (
-          <div className="flex justify-center items-center flex-col flex-wrap w-full gap-4 mt-5">
+          <div className="flex justify-center items-center flex-col flex-wrap w-full gap-4 mt-5" id="proj">
                     <h1 className="text-3xl mb-5">مشاريع الفريق</h1>
 
                <div className="flexCenter w-full flex-wrap gap-2 my-2">

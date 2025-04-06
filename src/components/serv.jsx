@@ -10,7 +10,7 @@ import { CiRouter } from "react-icons/ci";
 export default function Serv() {
 
      return (
-          <div className=" h-fit flex justify-center items-center flex-col mt-5">
+          <div className=" h-fit flex justify-center items-center flex-col mt-5" id="serv">
 
                <h1 className="text-3xl mb-5">ما هيه خدمات BitX</h1>
 

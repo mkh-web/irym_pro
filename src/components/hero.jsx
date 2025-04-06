@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Hero() {
 
      return (
-          <div className=" h-screen flex justify-evenly items-center bg-[#f8e9f8]">
+          <div className=" h-screen flex justify-evenly items-center ">
 
                     <div className="flex justify-evenly items-center w-full flex-col lg:flex-row">
                          <div className="w-96 flex gap-3.5 flex-col">

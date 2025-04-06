@@ -3,7 +3,7 @@
 export default function About() {
 
      return (
-          <div className=" h-fit lg:h-[80vh] flex justify-center items-center flex-col gap-10 py-5 bg-[#4a007a]">
+          <div className=" h-fit lg:h-[80vh] flex justify-center items-center flex-col gap-10 py-5 bg-[#4a007a]" id="about">
 
                <div className="font-bold text-white text-4xl">المزيد عن فريق Bix</div>
 
